@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath Kumar</h1>
 <h3 align="center">A passionate Backend Developer,Data Analyst,PowerBi Developer</h3>
+<img align="right" alt="Coading" width="400"src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🌱 I’m currently learning **Django,Automation Testing**
 
